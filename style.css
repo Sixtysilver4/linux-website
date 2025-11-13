@@ -41,3 +41,10 @@ code {
     color: #00cc66;
     font-family: monospace;
 }
+footer {
+    text-align: center;
+    background-color: #2b2b2b;
+    padding: 1rem;
+    color: #888;
+    margin-top: 2rem;
+}
