@@ -33,3 +33,11 @@ main {
     color: #00ff99;
     margin-bottom: 0.5rem;
 }
+code {
+    display: block;
+    background: #111;
+    padding: 0.5rem;
+    border-radius: 5px;
+    color: #00cc66;
+    font-family: monospace;
+}
