@@ -22,3 +22,10 @@ main {
     margin: 2rem auto;
     padding: 0 1rem;
 }
+.command {
+    background: #2c2c2c;
+    border-left: 4px solid #00ff99;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
