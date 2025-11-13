@@ -29,3 +29,7 @@ main {
     margin-bottom: 1rem;
     border-radius: 8px;
 }
+.command h2 {
+    color: #00ff99;
+    margin-bottom: 0.5rem;
+}
